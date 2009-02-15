@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=LinJap
+Comment=Practice Genki Words
+Exec=linjap
+Type=Application
+Icon=/usr/share/linjap/jping.png
+Terminal=false
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
+X-Desktop-File-Install-Version=0.15
+

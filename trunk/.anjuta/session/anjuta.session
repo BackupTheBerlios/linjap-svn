@@ -1,0 +1,22 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1920x1154+0+26
+
+[File Loader]
+Files=file:///home/sin/Projects/linjap/src/MainWindow.cc#109%%%file:///home/sin/Projects/linjap/src/Engine.cc#49%%%file:///home/sin/Projects/linjap/src/HelpWindow.cc#13%%%file:///home/sin/Projects/linjap/src/genki.dict#37%%%file:///home/sin/Projects/linjap/src/NeWindow.cc#16%%%file:///home/sin/Projects/linjap/src/PopWindow.cc#10%%%file:///home/sin/Projects/linjap/src/LinkedList.cc#184%%%file:///home/sin/Projects/linjap/src/Makefile.am#44%%%file:///home/sin/Projects/linjap/Makefile.am#18
+
+[Execution]
+Program arguments=
+Program uri=file:///home/sin/Projects/linjap/src/linjap
+Run in terminal=2
+Working directories=file:///home/sin/Projects/linjap/src
+Environment variables=
+
+[Build]
+Configuration list=1:Default:%%%1:Debug:Debug%%%1:Profiling:Profiling%%%1:Optimized:Optimized
+Selected Configuration=Default
+
+[Debugger]
+Source directories=
+Stop at beginning=2
